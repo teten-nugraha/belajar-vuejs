@@ -8,3 +8,4 @@ Repository mudah-mudahan dapat membantu teman-teman dalam mempelajari framework 
 * ATOM
 * Chrome Browser
 * Laragon
+* Bower
