@@ -1,0 +1,1 @@
+Pada Part 1 ini kita akan belajar mengenai bagaimana berinteraksi dengan DOM dan memanipulasi nya

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<!-- kode ini untuk menampilkan data dari Vuejs dan memberikan nnya ke view -->
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello World</title>
+  </head>
+  <body>
+
+    <div id="app">
+      <p>{{ title }}</p>
+    </div>
+
+    <script src="../bower_components/vue/dist/vue.min.js"></script>
+    <script type="text/javascript">
+      new Vue({
+        el :'#app',
+        data : {
+          title:'Hello World from VUEJS'
+        }
+      });
+    </script>
+  </body>
+</html>
